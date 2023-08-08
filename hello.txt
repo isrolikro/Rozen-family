@@ -1,0 +1,11 @@
+1 uzriale
+2 yakov
+3 yzchak
+4 israel
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/isrolikro/Rozen-family.git
+git push -u origin main
